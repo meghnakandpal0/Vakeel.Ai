@@ -1,4 +1,4 @@
-#Vakeel AI  (deployment link - https://vercel.com/abhishek1501kholiyas-projects/vakeel-ai/E812jcwkfEUyTYzEcNRCdfzdE86S)
+#Vakeel AI  
 The legal assistant you never knew but always wanted  
 
 ##Key Features  
